@@ -16,7 +16,7 @@
     "mocha": "~2.3.4"
   },
   "main": "sub-error",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "Easy sub errors",
   "keywords": [
